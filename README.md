@@ -2,18 +2,17 @@
 An interactive Power BI dashboard analyzing pharmacy sales across 5 countries  
 
 ## Table of Contents  
-1. [Introduction](#introduction)  
-2. [Dataset](#dataset)  
-3. [Project Objectives](#project-objectives)  
-4. [Data Model](#data-model)  
-5. [Methodology](#methodology)  
-6. [Key Insights & Findings](#key-insights--findings)  
-7. [Dashboard Showcase](#dashboard-showcase)  
-8. [Tools & Technologies](#tools--technologies)  
-9. [How to Explore](#how-to-explore)  
-10. [Business Impact & Recommendations](#business-impact--recommendations)  
-11. [Future Improvements](#future-improvements)  
-12. [Contact](#contact)  
+1. [Introduction](#1-introduction)  
+2. [Dataset](#2-dataset)  
+3. [Project Objectives](#3-project-objectives)  
+4. [Data Model](#4-data-model)  
+5. [Methodology](#5-methodology)  
+6. [Key Insights & Findings](#6-key-insights--findings)  
+7. [Dashboard Showcase](#7-dashboard-showcase)  
+8. [Tools & Technologies](#8-tools--technologies)  
+9. [Business Impact & Recommendations](#9-business-impact--recommendations)  
+10. [Future Improvements](#10-future-improvements) 
+
 
 ## 1. Introduction  
 This project explores pharmacy sales data from January to August across 5 countries using Power BI.  
