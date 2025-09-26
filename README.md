@@ -15,21 +15,23 @@ An interactive Power BI dashboard analyzing pharmacy sales across 5 countries
 
 
 ## 1. Introduction  
-This project explores pharmacy sales data from January to August across 5 countries using Power BI.  
-The dashboard provides insights into:  
-- Total revenue and order volume  
-- Top-performing products and salespersons  
-- Sales trends over time (monthly analysis)  
-- Cross-country comparisons  
+The pharmaceutical industry is one of the most dynamic and competitive sectors, where even small shifts in demand can have a major impact on business performance. Pharmacies deal with diverse product lines, seasonal demand patterns, and varying sales performance across regions and representatives. Managing this complexity requires more than intuition, it demands clear, data-driven insights.  
 
-The goal was to create a data-driven view of sales performance to support better business decisions.  
+This project was developed to analyze pharmacy sales data and transform it into an interactive Power BI dashboard. By cleaning, modeling, and visualizing the data, I set out to answer key questions such as:  
+
+- Which products drive the highest sales?  
+- How do sales trends change across months and seasons?  
+- Who are the top-performing sales representatives?  
+- Where can the business improve its product or sales strategy?  
+
+The aim is not just to summarize numbers, but to tell a story that can guide better business decisions. From inventory planning to sales coaching and market expansion, the insights generated here show how pharmacy businesses can move from raw data to strategic action.   
 
 ## 2. Dataset  
 - Period Covered: Jan – Aug  
 - Size: ~3,488 orders across 5 countries  
 - Key Variables:  
   - `Date` → transaction timeline  
-  - `Country` → Australia, Canada, India, UK, [other]  
+  - `Country` → Australia, Canada, India, UK
   - `Product` → e.g., Digestive Enzymes, Antiseptic Cream, Cough Syrup  
   - `Sales Person` → responsible staff  
   - `Amount` → sales value ($)  
