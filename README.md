@@ -1,4 +1,6 @@
 # Pharmacy Sales Dashboard (Jan–Aug)  
+<img width="635" height="507" alt="image" src="https://github.com/user-attachments/assets/a7f252aa-71e9-4368-b019-f8be3f1f6116" />
+
 An interactive Power BI dashboard analyzing pharmacy sales across 5 countries  
 
 ## Table of Contents  
@@ -119,10 +121,6 @@ Both charts demonstrate concentrated performance with top performers significant
   - Lowest sales in January (5.5K)  
 
 ## 7. Dashboard Showcase  
-Dashboard Screenshot:  
-
-<img width="635" height="507" alt="image" src="https://github.com/user-attachments/assets/1b10ccd5-de40-4b2f-9d80-53d62468bfd3" />
-
 
 https://github.com/user-attachments/assets/04de5d09-6bae-4adb-b7df-2482e26b2895
 
